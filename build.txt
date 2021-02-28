@@ -1,0 +1,3 @@
+displayName = Infernum: Your Living Hell
+author = Just Req
+version = 0.1
